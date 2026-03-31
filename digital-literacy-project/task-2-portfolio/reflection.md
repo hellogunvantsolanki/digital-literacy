@@ -1,13 +1,16 @@
 # Task 2: Professional Portfolio Development - Reflection
 
 
-<img width="1710" height="856" alt="image" src="https://github.com/user-attachments/assets/61f8b06e-edc8-4eba-acd0-951b2310d009" />
+<img width="1919" height="942" alt="image" src="https://github.com/user-attachments/assets/ae083f24-5dd9-4786-be54-882843372cf9" />
 
 
-<img width="840" height="503" alt="image" src="https://github.com/user-attachments/assets/8d8f57bb-0e12-4cee-9775-b1f8b3857d1d" />
+
+<img width="1919" height="743" alt="image" src="https://github.com/user-attachments/assets/68d59761-16fd-42ae-a4db-72b3cde9037a" />
 
 
-<img width="1710" height="486" alt="image" src="https://github.com/user-attachments/assets/3dbbb3f2-c353-444d-81cc-a31b08f70097" />
+
+<img width="1918" height="864" alt="image" src="https://github.com/user-attachments/assets/9881cc08-e200-4e8c-81e2-ab1b43ce7fbf" />
+
 
 
 

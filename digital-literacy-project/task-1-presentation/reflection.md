@@ -1,6 +1,7 @@
 # Task 1: Digital Presentation Design - Reflection
 
-<img width="2816" height="1536" alt="Gemini_Generated_Image_b8vowmb8vowmb8vo" src="https://github.com/user-attachments/assets/30a4ded3-4187-4624-a15a-5339821bb5f9" />
+![Create a single infographic or visual slide that covers at least 3 of the following_topics_ what digital literacy is, useful digital tools for students, safe internet practices,_professional online presence, emai](https://github.com/user-attachments/assets/0041a323-69ed-4238-ac92-8aa09783b32e)
+
 
 
 For this task, I used Canva's AI-powered design tools to create an infographic aimed at educating college students about digital literacy. My design specifically covers three crucial topics: Safe Internet Practices (like recognizing phishing and using secure passwords), Essential Digital Tools (such as collaboration and cloud storage software), and building a Professional Online Presence (optimizing platforms like LinkedIn).
